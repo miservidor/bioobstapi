@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4c9da5b5-f45a-4d0b-9a0c-c164130a8d44/resourceGroups/rgroup1/providers/Microsoft.Web/sites/bioobst",
+    "appService.deploySubpath": "bioapi\\bin\\Release\\netcoreapp3.1"
+}
